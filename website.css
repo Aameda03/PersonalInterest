@@ -75,10 +75,14 @@ a{
         transform: scaleX(1);
       }
 
+p, h2{
+    text-align: center;
+    color: aliceblue;
+}
+
 .authenticethio{
     display: grid;
 }
-
 .aed,p{
     color: aliceblue;
 }
@@ -88,4 +92,3 @@ a{
 .ikesd{
     color: aliceblue;
 }
-

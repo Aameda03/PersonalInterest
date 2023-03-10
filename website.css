@@ -74,10 +74,18 @@ a{
         transform-origin: left;
         transform: scaleX(1);
       }
-    
-.aefi{
-        
+
+.authenticethio{
+    display: grid;
 }
+
 .aed,p{
     color: aliceblue;
 }
+.ikes{
+    display: inline-flexbox;
+}
+.ikesd{
+    color: aliceblue;
+}
+
